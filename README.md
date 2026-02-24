@@ -1,5 +1,5 @@
 <h1 align="center"> Jyotipriya Sarkar</h1>
-<h3 align="center">Hardware Security | True Random Number Generators | Embedded Cryptography | ECE</h3>
+<h3 align="center">Hardware Security | Embedded Machine Learning | Embedded Cryptography | ECE</h3>
 
 <hr>
 
