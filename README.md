@@ -139,6 +139,17 @@ My goal is to develop:
 </ul>
 
 <hr>
+<hr>
+
+<h2 align="center">🔬 Research Domains</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRNG-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SRAM_PUF-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Information_Theory-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical_Testing-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-B22222?style=for-the-badge"/>
+</p>
 
 <h2>🤝 Let’s Connect</h2>
 
