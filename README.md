@@ -15,13 +15,6 @@ Electronics and Computing enthusiast focused on VLSI, Embedded Systems, and Hard
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipriyasarkar119-hue&theme=tokyonight"/>
 </p>
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h2>📈 Contribution Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotipriyasarkar119-hue&theme=tokyo-night"/>
-</p>
-
 <!-- ================= EXTRA ANALYTICS ================= -->
 
 <h2>⚡ Development Metrics</h2>
@@ -36,6 +29,15 @@ Electronics and Computing enthusiast focused on VLSI, Embedded Systems, and Hard
 </td>
 </tr>
 </table>
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+<h2>📈 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotipriyasarkar119-hue&theme=tokyo-night"/>
+</p>
+
+
 
 
 ### ✍️ Random Dev Quote
