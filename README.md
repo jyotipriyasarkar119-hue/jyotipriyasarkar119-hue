@@ -124,7 +124,7 @@ https://dailypulsetodo111.vercel.app/
 <!-- RIGHT COLUMN (IMAGE) -->
 <td width="40%" align="center">
 
-<img src="thumbbig-1195976.webp" width="100%" />
+<img src="3e60016ea3a432c8dbe176489c3db975.0000000.webp" width="100%" />
 
 </td>
 
