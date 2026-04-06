@@ -75,7 +75,7 @@ Electronics and Computing enthusiast focused on VLSI, Embedded Systems, and Hard
 <!-- RIGHT COLUMN (IMAGE) -->
 <td width="40%" align="center">
 
-<img src="https://wallpapercave.com/wp/wp11662064.png" width="100%" />
+<img src="959bce5d88c110f76862915807896961.jpg" width="100%" />
 
 </td>
 
