@@ -41,6 +41,46 @@ Electronics and Computing enthusiast focused on VLSI, Embedded Systems, and Hard
 </p>
 
 
+<!-- ================= PROJECT + IMAGE SECTION ================= -->
+
+<table width="100%">
+<tr>
+
+<!-- LEFT COLUMN (PROJECTS) -->
+<td width="60%" valign="top">
+
+## 🚀 Projects
+
+### 🔹 SRAM Startup-Based TRNG
+- Extracted entropy from SRAM startup states  
+- Applied XOR folding & Von Neumann correction  
+- Evaluated randomness using Shannon entropy  
+
+---
+
+### 🔹 Analog Noise Entropy Analysis
+- Studied electrical noise behavior  
+- Bias & spatial correlation analysis  
+- Improved randomness for cryptographic use  
+
+---
+
+### 🔹 Smart Irrigation System
+- Arduino-based automation  
+- Soil moisture sensing  
+- Automatic pump control  
+
+</td>
+
+<!-- RIGHT COLUMN (IMAGE) -->
+<td width="40%" align="center">
+
+<img src="https://wallpapercave.com/wp/wp11662064.png" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 
 ### ✍️ Random Dev Quote
