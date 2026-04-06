@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wp11662064.png" alt="header" width="100%"/>
+  <img src="bannerBackgroundImage_f5agp1l8hna91.webp" alt="header" width="100%"/>
 </p>
 
 Electronics and Computing enthusiast focused on VLSI, Embedded Systems, and Hardware Security. <br><br>Working on SRAM startup entropy, analog noise analysis, and TRNG design, with a strong interest in combining semiconductor-level behavior with AI to build secure and intelligent hardware systems.
