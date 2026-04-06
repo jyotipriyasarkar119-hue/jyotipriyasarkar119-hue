@@ -82,6 +82,55 @@ Electronics and Computing enthusiast focused on VLSI, Embedded Systems, and Hard
 </tr>
 </table>
 
+<!-- ================= PROJECT + IMAGE SECTION ================= -->
+
+<table width="100%">
+<tr>
+
+<!-- LEFT COLUMN (PROJECTS) -->
+<td width="60%" valign="top">
+
+## 🚀 Projects for Fun
+
+### 🔹 DripHop
+🧠 Built using Google AI Studio (experimental project)  
+- UI-focused web application  
+- Rapid prototyping using AI-generated components  
+
+🔗 GitHub:  
+https://github.com/jyotipriyasarkar119-hue/DripHop  
+
+🌐 Live Demo:  
+https://dailypulsetodo111.vercel.app/  
+
+---
+
+### 🔹 Daily Pulse (To-Do Web App)
+⚡ AI-generated productivity web app  
+- Task management interface  
+- Clean and responsive design  
+- Built for experimentation with AI-based development  
+
+🔗 GitHub:  
+https://github.com/jyotipriyasarkar119-hue/Daily-Pulse-.git  
+
+🌐 Live Demo:  
+https://dailypulsetodo111.vercel.app/  
+
+---
+
+</td>
+
+<!-- RIGHT COLUMN (IMAGE) -->
+<td width="40%" align="center">
+
+<img src="thumbbig-1195976.webp" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
